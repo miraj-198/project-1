@@ -1,0 +1,738 @@
+body {
+    margin: 0px;
+    display: block;
+}
+
+
+
+
+
+nav.navsection {
+
+    width: 100%;
+    height: 60px;
+}
+
+.manuitem {
+    height: 60px;
+    width: 1512px;
+    margin: 0 auto;
+}
+
+.logo {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    width: 330px;
+    float: left;
+}
+
+.logo img {
+    width: 110px;
+    padding-top: 20px;
+    padding-left: 200px;
+}
+.manu h5 {
+    margin: 0px;
+    width: 253px;
+    float: left;
+    font-size: 15px;
+    font-family: system-ui;
+    word-spacing: 6px;
+    font-weight: 700;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+
+
+
+.navlink {
+    float: left;
+    width: 400px;
+    height: 60px;
+    margin: 0px;
+}
+.navlink {
+    float: left;
+    width: 230px;
+    margin: 0px;
+    height: 0px;
+    margin-left: 240px;
+}
+button.login {
+
+    cursor: pointer;
+    font-size: 17px;
+    font-family: math;
+    padding: 4px 15px;
+    border-radius: 17px;
+    border: none;
+    background-color: #ddd;
+    margin: 0px 7px;
+    float: left;
+    margin-top: 18px;
+    cursor: pointer;
+}
+button.started {
+
+    cursor: pointer;
+    font-size: 17px;
+    font-family: math;
+    border-radius: 17px;
+    border: none;
+    padding: 4px 12px;
+    background-color: black;
+    color: white;
+    float: left;
+    margin-top: 18px;
+    cursor: pointer;
+}
+.navimgicon img {
+    width: 22px;
+    float: left;
+    margin: 0px 10px;
+    margin-top: 18px;
+}
+
+
+
+
+section.homesection {
+    width: 100%;
+    background: url(img/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    height: 420px;
+    object-fit: cover;
+    background-size: 100%;
+    padding-top: 180px;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+}
+.homeslider {
+    width: 700px;
+    height: 210px;
+    margin: 0 auto;
+    background-color: white;
+    overflow: hidden;
+    padding: 0px 10px;
+    border: 1px solid #333;
+    border-radius: 7px;
+}
+h5 {
+    width: 214px;
+    margin: 23px 243px;
+    font-size: 26px;
+    font-family: math;
+    font-weight: 600;
+}
+.homemanu {
+    width: 637px;
+    margin: 0 auto;
+    height: 40px;
+}
+
+.homemanu ul li {
+    text-decoration: none;
+    list-style: none;
+    float: inline-start;
+    font-size: 15px;
+    font-family: sans-serif;
+    margin: 7px;
+    font-weight: 600;
+}
+.homemanu ul :nth-child(1) {
+
+    padding: 4px 7px;
+    
+    background-color: #ddd;
+    
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    }
+    .homemanu ul :nth-child(2) {
+
+        padding: 4px 7px;
+        
+        background-color: #ddd;
+        
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        }
+        .homemanu ul :nth-child(3) {
+
+            padding: 4px 7px;
+            
+            background-color: #ddd;
+            
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            }
+            .homemanu ul :nth-child(4) {
+
+                padding: 4px 7px;
+                
+                background-color: #ddd;
+                
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                }
+
+    i.fa-solid.fa-angle-down {
+        border: none;
+        padding-left: 27px;
+        padding-right: 11px;
+    }
+    .manubottom {
+    width: 544px;
+    margin: 0 auto;
+    height: 40px;
+    }
+    .manubottom h6 {
+        width: 71px;
+        font-size: 14px;
+        font-family: sans-serif;
+        background-color: #ddd;
+        padding: 7px 157px;
+        float: left;
+        margin: 0px;
+        margin-top: 8px;
+        margin-right: 15px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
+    button.findoffer {
+        padding: 7px 38px;
+        border: none;
+        border-radius: 13px;
+        margin-top: 9px;
+        font-family: sans-serif;
+        font-weight: 700;
+        background-color: aqua;
+        cursor: pointer;
+    }
+    .homebottom {
+        width: 85px;
+        height: 25px;
+        margin: 0 auto;
+        margin-top: 85px;
+        padding: 3px 15px;
+        border: 1px solid white;
+        border-radius: 23px;
+        cursor: pointer;
+    }
+    
+    .homebottom a {
+        font-size: 16px;
+        border-bottom: 1px solid white;
+        text-decoration: none;
+        color: white;
+        font-family: system-ui;
+        cursor: pointer;
+    }
+
+
+
+
+
+
+
+
+
+    section.downsection {
+        margin: 0px;
+        width: 100%;
+        height: 269px;
+        overflow: hidden;
+        background-color: #fde24f;
+        border-bottom: 1px solid #333;
+    }
+    .downimg {
+        width: 1238px;
+        margin: 0 auto;
+    }
+    
+    .downimg img {
+        width: 1200px;
+       
+    }
+    
+    .down {
+        margin: 0 auto;
+        width: 409px;
+    }
+    
+    .down h6 {
+        font-size: 24px;
+        font-family: sans-serif;
+        margin: 0px;
+        padding-top: 50px;
+        padding-bottom: 44px;
+    }
+
+
+
+
+
+
+
+.fullfeauters {
+    width: 1300px;
+    height: 240px;
+    margin: 0 auto;
+}
+    section.aboutsection {
+        width: 100%;
+        overflow: hidden;
+        margin: 0px;
+        height: 420px;
+        border-bottom: 1px solid #333;
+    }
+    
+    section.aboutsection h5 {
+        margin: 0px;
+        width: 380px;
+        font-size: 20px;
+        font-family: system-ui;
+        margin-left: 29px;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+    
+    .secured {
+        height: 240px;
+        width: 260px;
+        float: left;
+        margin-right: 270px;
+    }
+    
+    .secured img {
+        width: 37px;
+        margin-left: 100px;
+        margin-top: 35px;
+    }
+
+    .secured h6 {
+        font-size: 15px;
+        font-family: sans-serif;
+        margin: 0px;
+        margin-top: 4px;
+        width: 150px;
+        margin-left: 45px;
+    }
+    
+    .secured p {
+        font-family: system-ui;
+        width: 242px;
+        text-align: center;
+        margin: 0px;
+        margin-top: 14px;
+        margin-bottom: 25px;
+    }
+    
+    .secured a {
+        font-size: 12px;
+        font-family: sans-serif;
+        margin-left: 35px;
+        color: black;
+        font-weight: 700;
+        cursor: pointer;
+    }
+
+
+    .secured\.1 {
+        height: 240px;
+        width: 245px;
+        float: left;
+        margin-right: 270px;
+    }
+    .secured\.1 img {
+        width: 37px;
+        margin-left: 100px;
+        margin-top: 35px;
+    }
+
+    .secured\.1 h6 {
+        font-size: 15px;
+        font-family: sans-serif;
+        margin: 0px;
+        margin-top: 4px;
+        width: 150px;
+        margin-left: 58px;
+    }
+    
+    .secured\.1 p {
+        font-family: system-ui;
+        width: 242px;
+        text-align: center;
+        margin: 0px;
+        margin-top: 14px;
+        margin-bottom: 25px;
+    }
+    
+    .secured\.1 a {
+        font-size: 12px;
+        font-family: sans-serif;
+        margin-left: 14px;
+        color: black;
+        font-weight: 700;
+        cursor: pointer;
+    }
+
+
+
+
+    .secured\.2 {
+        height: 240px;
+        width: 240px;
+        float: left;
+
+    }
+    .secured\.2 img {
+        width: 37px;
+        margin-left: 100px;
+        margin-top: 35px;
+    }
+
+    .secured\.2 h6 {
+        font-size: 15px;
+        font-family: sans-serif;
+        margin: 0px;
+        margin-top: 4px;
+        width: 167px;
+        margin-left: 35px;
+    }
+    
+    .secured\.2 p {
+        font-family: system-ui;
+        width: 242px;
+        text-align: center;
+        margin: 0px;
+        margin-top: 14px;
+        margin-bottom: 25px;
+    }
+    
+    .secured\.2 a {
+        font-size: 12px;
+        font-family: sans-serif;
+        margin-left: 35px;
+        color: black;
+        font-weight: 700;
+        cursor: pointer;
+    }
+    section.aboutsection h4 {
+        width: 114px;
+        font-size: 15px;
+        font-family: system-ui;
+        font-weight: 700;
+        border: 1px solid #333;
+        padding: 5px 13px;
+        border-radius: 17px;
+        margin: auto;
+        margin-top: 55px;
+        cursor: pointer;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    section.buysellsection {
+        overflow: hidden;
+        background-color: #f6f5f5;
+        height: 410px;
+        border-bottom: 1px solid #333;
+        width: 100%;
+    }
+    
+    .buysellc {
+        width: 50%;
+        margin: 0px;
+        height: 410px;
+        overflow: hidden;
+        border-right: 1px solid #333;
+        float: left;
+    }
+    .buysellc h5 {
+        margin: 0px;
+        margin-top: 40px;
+        margin-left: 133px;
+        font-family: system-ui;
+        font-size: 22px;
+    }
+    
+    .buy {
+        width: 520px;
+        margin: auto;
+        height: 60px;
+        margin-top: 20px;
+        background-color: white;
+        border: 1px solid #333;
+        border-radius: 8px;
+    }
+    
+    .buy img {
+        margin: 0px;
+        width: 42px;
+        padding: 8px 12px;
+        float: left;
+    }
+    
+    .buy ul {
+        width: 500px;
+        height: 30px;
+        margin: 0px;
+    }
+    
+    .buy ul li {
+        text-decoration: none;
+        overflow: hidden;
+        float: left;
+        margin: 0px;
+        padding: 22px 33px;
+    }
+    button.viewbuy\'s {
+        height: 28px;
+        margin-right: 50px;
+        margin-left: 390px;
+        margin-top: 25px;
+        background-color: black;
+        color: white;
+        border: none;
+        border-radius: 7px;
+        width: 138px;
+        cursor: pointer;
+    }
+    .sell {
+        width: 791px;
+        margin: 0px;
+        height: 410px;
+        float: right;
+    }
+.sellmanu {
+    margin:auto;
+    width: 520px;
+    height: 60px;
+    background-color: white;
+    border: 1px solid #333;
+    border-radius: 8px;
+}
+
+.sell h5 {
+    margin: 0px;
+    font-family: system-ui;
+    margin-left: 80px;
+    margin-top: 40px;
+    font-size: 22px;
+    margin-bottom: 17px;
+}
+
+.sellmanu img {
+    margin: 0px;
+    width: 42px;
+    padding: 8px 12px;
+    float: left;
+}
+
+.sellmanu ul {
+    width: 500px;
+    height: 30px;
+    margin: 0px;
+}
+
+.sellmanu ul li {
+    text-decoration: none;
+    overflow: hidden;
+    float: left;
+    margin: 0px;
+    padding: 22px 33px;
+}
+button.viewsell\'s {
+    height: 28px;
+    margin-right: 50px;
+    margin-left: 350px;
+    margin-top: 25px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    width: 138px;
+    cursor: pointer;
+}
+section.description {
+    width: 100%;
+    height: 340px;
+    margin: 0px;
+    overflow: hidden;
+    background-color: #CFBAFF;
+}
+
+section.description H3 {
+    width: 50%;
+    margin: 0 auto;
+    height: 140px;
+    margin-top: 75px;
+    font-size: 49px;
+    text-align: center;
+    font-family: system-ui;
+    font-weight: 500;
+}
+
+button.GetstartedB {
+    margin: 0 auto;
+    width: 125px;
+    height: 30px;
+    font-weight: 600;
+    border-radius: 14px;
+    background-color: black;
+    color: white;
+    margin-left: 850px;
+    border: none;
+    cursor: pointer;
+    margin-top: 65px;
+    overflow: hidden;
+}
+footer.spacio {
+    width: 100%;
+    height: 425px;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    overflow: hidden;
+}
+
+footer.spacio img {
+    width: 110px;
+    margin: 46px 80px;
+    overflow: hidden;
+    float: left;
+}
+
+.product {
+    color: white;
+    width: 240px;
+    height: 274px;
+    margin-top: 50px;
+    float: left;
+    margin-left: 100px;
+}
+
+.product h3 {
+    font-size: 26px;
+    font-family: sans-serif;
+    font-weight: 500;
+    width: 110px;
+}
+
+.product ul {
+    width: 140px;
+    height: 200px;
+    margin: 0px;
+    overflow: hidden;
+    padding: 0px;
+}
+
+.product ul li {
+    overflow: hidden;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    font-size: 17px;
+    font-family: system-ui;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+.Aboutspacio {
+    color: white;
+    width: 280px;
+    height: 250px;
+    margin-left: 200px;
+    margin-top: 53px;
+    float: left;
+}
+
+.Aboutspacio h3 {
+    font-size: 26px;
+    font-family: sans-serif;
+    font-weight: 500;
+    width: 151px;
+}
+
+.Aboutspacio ul {
+    width: 180px;
+    height: 170px;
+    margin: 0px;
+    overflow: hidden;
+    padding: 0px;
+}
+
+.Aboutspacio ul li {
+    overflow: hidden;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    font-size: 17px;
+    font-family: system-ui;
+    margin-bottom: 5px;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+.support {
+    color: white;
+    width: 180px;
+    height: 266px;
+    margin: 0px;
+    margin-left: 1280px;
+    margin-top: 79px;
+}
+
+.support h3 {
+    font-size: 26px;
+    font-family: sans-serif;
+    font-weight: 500;
+    width: 100px;
+}
+
+.support ul {
+    width: 180px;
+    height: 169px;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.support ul li {
+    overflow: hidden;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    font-size: 17px;
+    font-family: system-ui;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+section.footersection {
+    width: 100%;
+    height: 64px;
+    border-top: 1px solid #aaa;
+}
+section.footersection p {
+    color: white;
+    margin: auto;
+    width: 83%;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
